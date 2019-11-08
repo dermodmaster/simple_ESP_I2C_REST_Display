@@ -10,6 +10,7 @@ This is a rest server for Arduino ESP8266 (tested with nodemcu v2/v3) to display
 - Connect D2 to SDA
 - Connect the I2C to a power source
 - Connect the ESP to a power source
+
 **Make sure** the LCD is connected to an 5V power source! The ESP8266 usually provides 3,3V wich is not sufficient.
 
 # Functionalities
