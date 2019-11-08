@@ -3,7 +3,7 @@
 This is a simple project I created, because I didn't found any simple project like that, that actually works for me.
 
 ## Description
-This is a rest server for ESP8266 (tested with nodemcu v2/v3) to display some text on a 16x2 LCD Display with I2C via REST.
+This is a rest server for Arduino ESP8266 (tested with nodemcu v2/v3) to display some text on a 16x2 LCD Display with I2C via REST.
 
 # Functionalities
 - Display text with POST on /display (Payload (form-data):   Key: body | Value: {"line1":"YOURTEXT", "line2":"YOURTEXT"}
